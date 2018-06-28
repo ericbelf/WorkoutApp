@@ -1,0 +1,10 @@
+language: node_js
+node_js: node
+services:
+- mongodb
+deploy:
+  provider: heroku
+  api_key: b44948b8-45e5-42c8-a0e8-9b5eca5129a3 
+  app: boiling-gorge-86719
+  on: 
+    repo: ericbelf/blog-app-mongoose-challenge-solution
