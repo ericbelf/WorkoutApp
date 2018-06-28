@@ -2,7 +2,10 @@
   "name": "workout_app",
   "version": "0.0.1",
   "description": "Workout App",
-  "repository": "https://github.com/ericbelf/WorkoutApp",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericbelf/WorkoutApp.git"
+  },
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -24,5 +27,13 @@
     "chai-http": "^4.0.0",
     "faker": "^4.1.0",
     "mocha": "^5.0.5"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/ericbelf/WorkoutApp/issues"
+  },
+  "homepage": "https://github.com/ericbelf/WorkoutApp#readme",
+  "directories": {
+    "test": "test"
+  },
+  "author": "Eric Belfer"
 }
