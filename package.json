@@ -1,8 +1,8 @@
 {
-  "name": "blog-app-challenge-starter-files",
+  "name": "workout_app",
   "version": "0.0.1",
-  "description": "Shopping list app to demo 'the modern classic'",
-  "repository": "https://github.com/Thinkful-Ed/blog-app-mongoose-challenge-solution",
+  "description": "Workout App",
+  "repository": "https://github.com/ericbelf/WorkoutApp",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
