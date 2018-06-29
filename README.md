@@ -1,2 +1,2 @@
-Blog app challenge solution
+Work out app
 ==========================
