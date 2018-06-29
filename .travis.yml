@@ -5,6 +5,6 @@ services:
 deploy:
   provider: heroku
   api_key: b44948b8-45e5-42c8-a0e8-9b5eca5129a3 
-  app: boiling-gorge-86719
+  app: pure-plateau-99789
   on: 
-    repo: ericbelf/blog-app-mongoose-challenge-solution
+    repo: https://github.com/ericbelf/WorkoutApp
