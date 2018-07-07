@@ -27,7 +27,7 @@ describe("index page", function() {
   });
 });
 
-describe("create new routine page", function() {
+/*describe("create new routine page", function() {
   it("should exist", function() {
     return chai
       .request(app)
@@ -102,4 +102,4 @@ describe("workout tracker page", function() {
         expect(res).to.have.status(200);
       });
   });
-});
+});*/
